@@ -1,0 +1,1 @@
+Busqueda finalizada. Tiempo CPU: 0.008882 segundos.
